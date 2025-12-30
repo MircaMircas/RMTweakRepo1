@@ -8,17 +8,18 @@
       "Description": "",
       "References": [],
       "ID": "68CCCEE28FF0D3047DDAEC4305440EF0",
-      "AllowRevert": false
+      "AllowRevert": true
     }
   ],
   "Version": "1.0.0.0",
   "MinVersion": "1.14.16.0",
   "MaxVersion": "0.0.0.0",
-  "Description": "Changes the color of fadeout on title screen and file select screen from white to black, like in beta.\r\nTweak by SuperDumbMario2.",
+  "Description": "Changes the color of fadeout on title screen and file select screen from white to black, like in beta.\r\nTweak by SuperDumbMario2 & fixes by MircaMircas (qwerty).",
   "EmbeddedFiles": {
     "CompressedFiles": {}
   },
   "ID": "47A0808CED36B900752866576B2EF68F",
   "Official": false,
   "Recommended": false
+
 }

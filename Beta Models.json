@@ -9,16 +9,35 @@
       "References": [],
       "ID": "FD691CE70297B1919DDCCDED40D69394",
       "AllowRevert": true
+      },
+    {
+      "Name": "Install BETA (Unused) Broken Models",
+      "Script": "// Heave Ho\r\n132C02: 41 88\r\n132C0E: 45 D0\r\n132C1A: 49 A8\r\n\r\n// Goomba Body\r\n200FFD: 01 D3 60\r\n",
+      "Type": "TweakScript",
+      "Description": "",
+      "References": [],
+      "ID": null
+      "AllowRevert": true
+      },
+    {
+      "Name": "Install Finalized (Unused) Sad Penguin Model",
+      "Script": "1658B2: 64 E8",
+      "Type": "TweakScript",
+      "Description": "",
+      "References": [],
+      "ID": null
+      "AllowRevert": true
     }
   ],
   "Version": "1.0.0.0",
   "MinVersion": "1.14.16.0",
   "MaxVersion": "0.0.0.0",
-  "Description": "Installs the unused models, replacind the modern ones.\r\nInstalls unused parts/models for:\r\nBoo Key\r\nKoopa\r\nBig Bully\r\nPenguin\r\nGoomba\r\nWF Tower Platforms.\r\nCredits to TCRF for info.\r\nTweak by SuperDumbMario2.",
+  "Description": "Installs the unused models, replacind the modern ones.\r\nInstalls unused parts/models for:\r\nBoo Key\r\nKoopa\r\nBig Bully\r\nPenguin (beta and sad (optional))\r\nGoomba\r\nWF Tower Platforms\r\nHeave Ho Tires (optional).\r\nCredits to TCRF for info.\r\nTweak by SuperDumbMario2.",
   "EmbeddedFiles": {
     "CompressedFiles": {}
   },
   "ID": "D5BC2E481F17A69295E311C9CCDFA562",
   "Official": false,
   "Recommended": false
+
 }

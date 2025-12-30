@@ -9,4 +9,4 @@ Remove Chain Chomp's Log.json - entriely by SDM2. Removes the log that Chain Cho
 
 Black Fadeout on Title Screen and File Select Screen..json - entirely by SDM2 too. Makes the fade-out in title screen, file select and star select black like in the beta. Revertible by me.
 
-remove camera hud.json - Removes the camera part from the HUD. Revertible by me
+remove camera hud.json - Removes the camera part from the HUD. Revertible by me.

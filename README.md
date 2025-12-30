@@ -1,5 +1,5 @@
 # My Tweak Repository
-Repository with "SM64 ROM Manager" tweaks for ROM-hacking.
+A repository with "SM64 ROM Manager" tweaks for ROM-hacking.
 
 Please credit me and SDM2 for using those.
 # Contents:
